@@ -2,7 +2,7 @@
 
 This project is a proof of concept that shows how now you can use the same library, in this case newtosonft, with different versions at the same time if they come from references. Unlike on the classic .NET Framework where this created conflicts with the packages.
 
-![capture](.\Capture.PNG)
+![capture](https://raw.githubusercontent.com/AlexHart/NetStandardMultipleNugetVersions/master/Capture.PNG)
 
 As can be seen on the library we have a **.net standard** library that consumer 2 libraries (.net standard too) with different versions of the nuget.
 
