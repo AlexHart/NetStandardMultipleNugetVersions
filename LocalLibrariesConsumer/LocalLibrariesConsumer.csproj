@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+    <ProjectReference Include="..\NewLibConsumer\NewLibConsumer.csproj" />
+    <ProjectReference Include="..\OldLibConsumer\OldLibConsumer.csproj" />
   </ItemGroup>
 
 </Project>
