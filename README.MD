@@ -1,6 +1,6 @@
 # Multiple Nuget versions
 
-This project is a proof of concept that shows how now you can use the same library, in this case newtosonft, with different versions at the same time if they come from references. Unlike on the classic .NET Framework where this created conflicts with the packages.
+This project is a proof of concept that shows how now you can use the same library, in this case newtonsonft, with different versions at the same time if they come from references. Unlike on the classic .NET Framework where this created conflicts with the packages.
 
 ![capture](https://raw.githubusercontent.com/AlexHart/NetStandardMultipleNugetVersions/master/Capture.PNG)
 
